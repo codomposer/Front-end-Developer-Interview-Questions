@@ -30,6 +30,7 @@ The project is currently maintained by:
 
 - [@roblarsen](https://github.com/roblarsen)
 - [@vvscode](https://github.com/vvscode)
+- [@gitakileus](https://github.com/gitakileus)
 
 ## Contributors
 
