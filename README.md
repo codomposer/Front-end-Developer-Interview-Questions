@@ -23,8 +23,7 @@ You can read more about this project & its history [here](https://gitakileus/Fro
 
   1. [Contributors](#contributors)
   2. [How to Contribute](https://github.com/gitakileus/Front-end-Developer-Interview-Questions/blob/master/.github/CONTRIBUTING.md)
-  3. [License](https://github.com/gitakileus/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
-
+ 
 
 The project is currently maintained by:
 
@@ -184,7 +183,3 @@ Feeling inspired? Check our [Contributing guide](https://github.com/gitakileus/F
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## License
-
-[Copyright (c) Contributors of the Front-end Developer Interview Questions](https://github.com/gitakileus/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
